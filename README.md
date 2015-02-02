@@ -1,2 +1,2 @@
-# D3-Class
-# D3-Class
+# Assignments for my D3 class
+
